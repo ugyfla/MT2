@@ -2,4 +2,30 @@
     <string name="app_name">MT2</string>
     <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="heart">heart</string>
+    <string name="eight">eight</string>
+    <string name="six">six</string>
+    <string name="tawon">tawon</string>
+    <string name="ractangle">ractangle</string>
+    <string name="triangle">triangle</string>
+    <string name="circle">circle</string>
+    <string name="eeee">eeee</string>
+    <string name="shape">shape</string>
+    <string name="word">words</string>
+    <string name="getsearch">검색어를 입력하세요</string>
+    <string name="medicine_teacher">medicine teacher</string>
+    <string name="words">words</string>
+    <string name="searchwords">문자를 입력하세요</string>
+    <string name="searchbtn">searchbtn</string>
+    <string name="red">red</string>
+    <string name="orange">orange</string>
+    <string name="yellow">yellow</string>
+    <string name="green">green</string>
+    <string name="blue">blue</string>
+    <string name="purple">purple</string>
+    <string name="black">black</string>
+    <string name="gray">gray</string>
+    <string name="medicine">medicine</string>
+    <string name="imformation">imformation</string>
+    <string name="name">name</string>
 </resources>
